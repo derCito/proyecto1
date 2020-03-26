@@ -55,7 +55,7 @@
 <meta charset="UTF8">
 <html lang="es">
   <head>
-    <title>CONECT MX</title>
+    <title>BIBLIOTECA MX</title>
     <link rel="stylesheet" type="text/css"
     href="css/diseñado.css">
   </head>
@@ -68,6 +68,8 @@
           <ul class="opciones">
           <li id="aOpciones"><a href="LogAlu.php">USER</a></li>
           <li id="aOpciones"><a href="logAdm.php">ADMIN</a></li>
+          <br>
+          <button type="button" value="Volver"><a href="http://localhost/Login/php/REGISTROS.php">Registro</a></button>
         </div>
         </form>
   </body>
